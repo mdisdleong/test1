@@ -12,6 +12,7 @@ void main(void)
 	while(1) {
 		for (n=0; n<5; n++) {
 			a = n + 2;
+			printf("a = %d\n", a);
 		}
 	}
 }
